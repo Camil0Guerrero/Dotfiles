@@ -31,5 +31,6 @@ vim.opt.splitbelow = true
 vim.opt.splitright = true
 vim.opt.splitkeep = "cursor"
 vim.opt.mouse = ""
+vim.g.lazyvim_prettier_needs_config = false
 
 vim.opt.formatoptions:append({ "r" })
