@@ -1,0 +1,39 @@
+# Font 
+font = Ubuntu Nerd Font
+font-size = 14
+
+# Window style
+horizontal = true
+anchor = top
+width = 100%
+height = 34
+outline-width = 0
+border-width = 0
+min-input-width = 130
+result-spacing = 30
+padding-top = 5
+padding-bottom = 0
+padding-left = 20
+padding-right = 0
+prompt-text = "What We Runnin'? "
+
+# Dracula Theme
+prompt-color = #6272a4
+prompt-padding = 50
+
+background-color = #282a36
+text-color = #f8f8f2
+
+input-color = #bd93f9
+input-background = #44475a
+input-background-padding = 3, 10
+input-background-corner-radius = 12
+
+selection-color = #50f17b
+selection-match-color = #bd93f9
+selection-background = #44475a
+selection-background-padding = 3, 10
+selection-background-corner-radius = 12
+
+clip-to-padding = false
+require-match = true

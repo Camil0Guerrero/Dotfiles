@@ -1,0 +1,9 @@
+[Unit]
+Description=Battery Notification Timer
+
+[Timer]
+OnCalendar=*:0/5
+Unit=battery-alert.service
+
+[Install]
+WantedBy=default.target

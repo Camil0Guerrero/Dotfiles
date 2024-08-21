@@ -1,0 +1,8 @@
+[Unit]
+Description=Battery Notification Service
+
+[Service]
+ExecStart=/home/camilo/.config/scripts/battery-alert
+
+[Install]
+WantedBy=battery-alert.timer
